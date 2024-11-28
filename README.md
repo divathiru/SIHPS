@@ -1,7 +1,10 @@
 # Smart India Hackathon Workshop
 # Date:
+28/11/2024
 ## Register Number:
+24005998
 ## Name:
+Thirumurugan K
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
@@ -10,16 +13,31 @@ Background: Alumni associations play a pivotal role in fostering lifelong connec
 Government of Gujarat
 
 ## Idea
+The platform empowers alumni to register, update their profiles, and manage preferences with ease, fostering a strong connection to their alma mater. With seamless social media integration, alumni can quickly update their profiles while staying engaged with the community. It facilitates secure online donations, allowing alumni to contribute to institutional growth and development. A dedicated section for job postings and searches connects alumni with valuable career opportunities, while a searchable directory with advanced filtering ensures easy networking. The platform highlights notable alumni achievements to inspire and motivate the community. Additionally, it offers tools to organize and manage events efficiently and collects alumni feedback to enhance both the platform and institutional policies.
 
 
 ## Proposed Solution / Architecture Diagram
+![Violet and Gray Hexagon Process Diagram](https://github.com/user-attachments/assets/b9e9e299-6a7c-481a-9d7b-1d6ac39c13e4)
 
 
 ## Use Cases
+![Colorful Minimal Process Step Flowchart Cycle Diagram](https://github.com/user-attachments/assets/aa785e83-58b1-4c52-ad76-130277a22a99)
 
 
 ## Technology Stack
-
+Frontend: React.js, Flutter.
+Backend: Node.js, Express.js.
+Database: MySQL/PostgreSQL, MongoDB.
+APIs: Payment gateways, email notifications.
+Hosting: AWS/GCP.
 
 ## Dependencies
+Planning and Requirement Gathering :7–10 days
+Design and Architecture :10–14 days
+Backend Development :20–25 days
+Frontend Development :20–25 days
+Mapping and Location Services :7–10 days
+Real-Time Feature :7–10 days
+Testing and Quality Assurance :10–15 days
+Deployment and Training :5–7 days
 
